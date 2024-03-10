@@ -19,7 +19,7 @@
     {
       "nombre": "Fuego Fatuo",
       "especie": "Espiritu",
-      "habilidades": ["Ilusiones enganosas", "Manipulacion de luz", "Confusion de \"regex"],
+      "habilidades": ["Ilusiones enganosas", "Manipulacion de luz y booleanos false", "Confusion de \"regex"],
       "nivel_peligrosidad": 5,
       "region": "Pantano Encantado",
       "es_volador": false
